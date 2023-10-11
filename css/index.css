@@ -157,6 +157,7 @@ header{
 .intro__item img{
     width: 100%;
     display: block; /* lam het khoang ho giua cac hinh */
+    height: 100%;
 }
 
 .intro__item{
